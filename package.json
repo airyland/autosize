@@ -1,0 +1,23 @@
+{
+  "family": "seedit",
+  "name": "autosize",
+  "version": "0.0.1",
+  "description": "textarea resize",
+  "homepage": "https://github.com/airyland/autosize",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airyland/autosize"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": ["widget"],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["autosize.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
