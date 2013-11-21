@@ -1,6 +1,6 @@
 define(function(require) {
 
-  var autosize = require('../src/autosize');
+  var autosize = require('autosize');
 
   describe('autosize', function() {
 

@@ -2,17 +2,20 @@
   "family": "seedit",
   "name": "autosize",
   "version": "0.0.1",
-  "description": "textarea resize",
+  "description": "jQuery textarea autoresize plugin",
   "homepage": "https://github.com/airyland/autosize",
-  "author": "",
+  "author": "airyland",
+  "maintainers": [
+    "airyland"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/airyland/autosize"
+    "url": "git://github.com/airyland/autosize.git"
   },
   "bugs": {
     "url": ""
   },
-  "keywords": ["widget"],
+  "keywords": [],
   "licenses": "MIT",
   "spm": {
     "output": ["autosize.js"],
